@@ -1,7 +1,7 @@
 # Othello Bot
 
 ## Description
-An AI for the board game Othello. 
+An AI for the board game Othello. This program uses the minimax algorithm to search the game tree and attempt to pick the very best option for its move. The evaluation function is a weighted sum of a few common factors in othello gameplay that make a gameboard 'good' for a player. 
 
 ## Purpose 
 
